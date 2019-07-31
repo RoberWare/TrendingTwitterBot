@@ -20,7 +20,7 @@ Loading pre-trained model
 ![alt text](https://github.com/RoberWare/TrendingTwitterBot/blob/master/output_examples/menu02.png)
 
 ### Training the model
-![alt text](https://github.com/RoberWare/TrendingTwitterBot/blob/master/training.png)
+![alt text](https://github.com/RoberWare/TrendingTwitterBot/blob/master/output_examples/training.png)
 
 ## Examples of output
 https://github.com/RoberWare/TrendingTwitterBot/blob/master/output_examples/best_of_JokesMemesFacts.txt
