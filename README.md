@@ -14,13 +14,14 @@ Anyway you can use this program to train the textgenrnn without a Twitter accoun
 
 ### Main menu
 Loading pre-trained model
-![alt text](https://github.com/RoberWare/TrendingTwitterBot/blob/master/menu_01.png)
+![alt text](https://github.com/RoberWare/TrendingTwitterBot/blob/master/output_examples/menu_01.png)
 
 ### Selecting files to train with
-![alt text](https://github.com/RoberWare/TrendingTwitterBot/blob/master/menu02.png)
+![alt text](https://github.com/RoberWare/TrendingTwitterBot/blob/master/output_examples/menu02.png)
 
 ### Training the model
 ![alt text](https://github.com/RoberWare/TrendingTwitterBot/blob/master/training.png)
 
 ## Examples of output
-https://github.com/RoberWare/TrendingTwitterBot/blob/master/best_of_trump.txt
+https://github.com/RoberWare/TrendingTwitterBot/blob/master/output_examples/best_of_JokesMemesFacts.txt
+https://github.com/RoberWare/TrendingTwitterBot/blob/master/output_examples/best_of_realdonaldtrump.txt
