@@ -1,6 +1,11 @@
 # TrendingTwitterBot
 This program uses a text generator RNN to write tweets like the Twitter accounts you specify. 
 
+Thanks to the work of
+ - @minimaxir https://github.com/minimaxir/textgenrnn
+ - @tweepy https://github.com/tweepy/tweepy
+ - All the other collaborators that bet for free software!
+
 ## Usage
 > python main.py
 
